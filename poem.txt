@@ -5,3 +5,4 @@ orange
 green
 yellow
 maroon
+{ white and pink }
