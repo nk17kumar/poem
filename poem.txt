@@ -5,3 +5,5 @@ orange
 green
 yellow
 maroon
+pink
+white
