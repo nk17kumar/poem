@@ -3,6 +3,7 @@ red
 blue
 orange
 green
+indigo
 yellow
 maroon
 { white and pink }
